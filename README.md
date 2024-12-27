@@ -5,7 +5,7 @@ Developer based in Caloocan, Philippines
 
 <be>
 
-![uaenaaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=uaenaaaa&theme=vue-dark&hide_border=true)
+![uaenaaaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=froilanimnida&theme=vue-dark&hide_border=true)
 
 <br>
 
@@ -13,11 +13,11 @@ Developer based in Caloocan, Philippines
 
 <br>
 
-![uaenaaaa's Stats](https://github-readme-stats.vercel.app/api?username=uaenaaaa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![froilanimnida's Stats](https://github-readme-stats.vercel.app/api?username=froilanimnida&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <br>
 
-![uaenaaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uaenaaaa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![uaenaaaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=froilanimnida&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 
